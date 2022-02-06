@@ -9,7 +9,7 @@
 - restart
 
 # Deploy To Heroku 🚀
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamsamshad/BanAllBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/iamsamshad/BanAllBot-1)
 
 # Credits
 * [RiZoeL Creator](https://github.com/MrRizoel)
